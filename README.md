@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Mert Yavuz</h1>
 
-<h3 align="center">I am a Web & Mobile Developer and also a Student at Manisa Celal Bayar University</h3>
+<h3 align="center">I am a Web & Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mymertyvz&label=Profile%20views&color=0e75b6&style=flat" alt="mymertyvz" /> </p>
 
