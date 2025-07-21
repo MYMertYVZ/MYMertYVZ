@@ -1,19 +1,12 @@
 
 <h1 align="center">Hi, I'm Mert Yavuz</h1>
 
-<h3 align="center">I am a Web & Mobile Developer</h3>
+<h3 align="center">I am a Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mymertyvz&label=Profile%20views&color=0e75b6&style=flat" alt="mymertyvz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mertyavuz_sw" target="blank"><img src="https://img.shields.io/twitter/follow/mertyavuz_sw?logo=twitter&style=for-the-badge" alt="mertyavuz_sw" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [Soon](Soon)
-
-- 📝 I regularly write articles on [Soon](Soon)
-
-- 💬 Ask me about **Flutter and Web Development**
 
 - 📫 How to reach me **👉 mymertyavuzz@gmail.com**
 
