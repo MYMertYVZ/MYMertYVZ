@@ -21,8 +21,8 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,tailwind,ts,js,nodejs,nestjs,express,html,css,bootstrap" /><br/>
-  <img src="https://skillicons.dev/icons?i=linux,nginx,mysql,postgres,firebase,git,github,figma,docker,cloudflare,python" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,ts,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,git,figma" />
 </p>
 
 ---
