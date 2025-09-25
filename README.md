@@ -58,7 +58,4 @@ Built both **Flutter app** and complete **backend infrastructure (APIs, authenti
 
 ### 📫 Contact Me
 - ✉️ **mymertyavuzz@gmail.com**  
-- 🌍 [Portfolio / Coming Soon]  
-
 ---
-t
